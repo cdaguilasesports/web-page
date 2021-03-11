@@ -1587,7 +1587,7 @@
 /* Type */
 
 	body {
-	background-image: url("file:///C:/Users/Hiram/Desktop/Curso%20HTML/Sitio2/mando1.jpg");
+	background-image: url("../../images/mando1.jpg");
 	background-size: cover;
 	background-attachment:fixed;
 	color: #fff;
