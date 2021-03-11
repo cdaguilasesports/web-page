@@ -1587,7 +1587,7 @@
 /* Type */
 
 	body {
-	background-image: url("../../images/mando1.jpg");
+	background-image: url("../../images/mando1.jpg")!important; 
 	background-size: cover;
 	background-attachment:fixed;
 	color: #fff;
