@@ -2602,6 +2602,7 @@ header h3 {
 	background-color: #1c1c1c80;
 	align-content: center
 	}
+@media screen and (max-width: 980px) { .table-wrapper {align-content: flex-end; }}
 
 		table tbody tr {
 			border: solid 2px;
