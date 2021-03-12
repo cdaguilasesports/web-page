@@ -3967,7 +3967,7 @@ header h3 {
 
 .flexbox-container > div {
         width: 33%;
-        padding: 10px;
+        padding: 3%;
 }
 
 .flexbox-container > div:first-child {
