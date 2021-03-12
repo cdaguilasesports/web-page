@@ -4078,6 +4078,6 @@ h8 {
 	font-weight: 400;
 	letter-spacing: 2px;
 			}
-@media screen and (max-width: 980px) { #header .logo2 {display:none; }}
+@media screen and (max-width: 980px) { .logo2 {display:none; }}
 
 
