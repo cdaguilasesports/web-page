@@ -4025,9 +4025,10 @@ h8 {
 		text-transform: uppercase;
 	color:#FCD41D;
 	align-content: center;
-			
+	width:100%;
+		
 	}
-
+@media screen and (max-width: 980px) { h8 {align-content: center; }}
 		h8 a {
 			color: inherit;
 			text-decoration: none;
