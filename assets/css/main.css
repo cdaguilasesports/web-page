@@ -4052,3 +4052,32 @@ h8 {
 .flexbox-container2 > div:first-child {
         margin-right: 20px;
 }
+#header .logo2 {
+			font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+			display: inline-block;
+			height: inherit;
+			left: 6em;
+			line-height: inherit;
+			margin: 0.25em;
+			padding: 0.5em;
+			position: absolute;
+			top:0;
+			color: #FCD41D;
+			font-size: 2em;
+			text-transform: none;
+			font-weight: normal;
+			padding: 0;
+			letter-spacing:2px;
+			}
+
+			#header .logo2:hover {
+	color: #2389F8;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-size: 2em;
+	font-style: normal;
+	font-weight: 400;
+	letter-spacing: 2px;
+			}
+@media screen and (max-width: 980px) { .logo2
+display: none;
+}
