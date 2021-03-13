@@ -1690,7 +1690,7 @@
 	h2 {
 		font-size: 1.75em;
 	}
-@media screen and (max-width:980px) { h2 {font-size:1em;} }
+
 	h3 {
 		font-size: 1.35em;
 	}
@@ -1707,14 +1707,14 @@
 		font-size: 0.7em;
 	}
 
-	@media screen and (max-width: 736px) {
+	@media screen and (max-width: 480px) {
 
 		h1 {
 			font-size: 1.5em;
 		}
 
 		h2 {
-			font-size: 1.25em;
+			font-size: 0.5em;
 		}
 
 		h3 {
