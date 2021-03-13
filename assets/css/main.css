@@ -4040,6 +4040,10 @@ h8 {
 		font-size: 1.5em;
 		margin: 0 0 0 0;
 		}
+h8 p {
+	align-content: center;
+	with:100%;
+}
 
 .imagenplantilla {
 	float: right;		
