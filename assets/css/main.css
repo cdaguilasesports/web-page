@@ -4036,7 +4036,7 @@ h8 {
 	width:100%;
 		
 	}
-@media screen and (max-width: 980px) { h8 {align-content: center; }}
+@media screen and (max-width: 980px) { h8 p {width:100%; }}
 		h8 a {
 			color: inherit;
 			text-decoration: none;
