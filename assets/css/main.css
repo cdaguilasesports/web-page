@@ -4056,20 +4056,7 @@ h8 p {
 .imagenplantilla {
 	float: right;		
 }
-.flexbox-container2 {
-        display: -ms-flex;
-        display: -webkit-flex;
-        display: flex;
-}
 
-.flexbox-container2 > div {
-        width: 90%;
-        padding: 10px;
-}
-
-.flexbox-container2 > div:first-child {
-        margin-right: 20px;
-}
 #header .logo2 {
 			font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
 			display: inline-block;
@@ -4126,4 +4113,15 @@ h9 {
 			max-width: 20em;
 			min-width: 15em;
 	}}
+
+.lista {
+	font-size: 1.2em;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-weight: bold;
+	text-transform: uppercase;
+	display:flex;
+	padding: 0 15px;
+	
+				}
+
 
