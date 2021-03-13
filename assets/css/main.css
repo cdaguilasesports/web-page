@@ -1590,6 +1590,7 @@
 	background-image: url("https://github.com/cdaguilasesports/web-page/blob/master/images/mando1.jpg?raw=true")!important; 
 	background-size: cover;
 	background-attachment:fixed;
+		background-position: left;
 	color: #fff;
 	}
 
