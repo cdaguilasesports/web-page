@@ -3955,6 +3955,13 @@ header h3 {
 	background-color: #FCD41D;
 	font-weight: bolder;
 }
+@media screen and (max-width: 980px) {
+
+		.citas.\31 25\25 {
+			width: 100%;
+			max-width: 20em;
+			min-width: 15em;
+	}}
 .iconosfondo {
 	text-align: right;		
 }
