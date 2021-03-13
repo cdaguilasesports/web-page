@@ -1593,7 +1593,13 @@
 		background-position: left;
 	color: #fff;
 	}
+@media only screen and (max-width: 767px) {
 
+body {
+
+background-image: url("https://github.com/cdaguilasesports/web-page/blob/master/images/mando1-mobile.jpg?raw=true");
+
+	}}
 	body, input, select, textarea {
 		font-family: "Lato", sans-serif;
 		font-size: 15pt;
