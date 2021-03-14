@@ -2611,7 +2611,11 @@ header h3 {
 	align-content: center
 	}
 @media screen and (max-width: 980px) { .table-wrapper {align-content: flex-end; }}
-
+table a {color: white;}
+table a:hover {
+			text-decoration: none;
+			color:#FF8000;
+					}
 		table tbody tr {
 			border: solid 2px;
 			border-left: 0;
