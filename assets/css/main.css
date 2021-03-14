@@ -1814,16 +1814,16 @@ background-image: url("https://github.com/cdaguilasesports/web-page/blob/master/
 	}
 
 	blockquote {
-		border-left-color: ##FCD41D;
+		border-left-color: #FCD41D;
 	}
 
 	code {
 		background: none;
-		border-color: ##FCD41D;
+		border-color: #FCD41D;
 	}
 
 	hr {
-		border-bottom-color: ##FCD41D;
+		border-bottom-color: #FCD41D;
 	}
 
 /* Box */
@@ -1848,7 +1848,7 @@ background-image: url("https://github.com/cdaguilasesports/web-page/blob/master/
 		}
 
 	.box {
-		border-color: ##FCD41D;
+		border-color: #FCD41D;
 	}
 
 /* Button */
@@ -2253,7 +2253,7 @@ background-image: url("https://github.com/cdaguilasesports/web-page/blob/master/
 	}
 
 	label {
-		color: ##FCD41D;
+		color: #FCD41D;
 	}
 
 	input[type="text"],
@@ -2286,12 +2286,12 @@ background-image: url("https://github.com/cdaguilasesports/web-page/blob/master/
 		input[type="checkbox"] + label:before,
 		input[type="radio"] + label:before {
 			background: none;
-			border-color: ##FCD41D;
+			border-color: #FCD41D;
 		}
 
 	input[type="checkbox"]:checked + label:before,
 	input[type="radio"]:checked + label:before {
-		background-color: ##FCD41D;
+		background-color: #FCD41D;
 		border-color: #FCD41D;
 		color: #ffffff;
 	}
@@ -3547,7 +3547,7 @@ table a:hover {
 			display: block;
 			top: 0;
 			left: 0;
-			background-color: ##1c1c1c;
+			background-color: #1c1c1c;
 			opacity: 0.25;
 		}
 
