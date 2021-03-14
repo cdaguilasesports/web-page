@@ -4137,7 +4137,7 @@ h9 {
 	display:inline-flex;
 
 }.lista-twitter a {color:#FFFFFF}
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 480px) {
 
 		.lista-twitter {display:list-item}
 		}
@@ -4155,9 +4155,9 @@ h9 {
  	color: #ffffff;display:inline-flex;margin-right: 3%;
 
 }.lista-youtube a {color:#FFFFFF}
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 480px) {
 
-		.lista-youtube {display: flex}
+		.lista-youtube {display:list-item}
 		}
 
 .lista-twitch {
@@ -4174,9 +4174,9 @@ h9 {
 	display:inline-flex;margin-right: 3%;
 
 }.lista-twitch a {color:#FFFFFF}
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 480px) {
 
-		.lista-twitch {display: flex}
+		.lista-twitch {display:list-item}
 		}
 
 .lista-discord {
@@ -4192,7 +4192,7 @@ h9 {
  	color: #ffffff;display:inline-flex;margin-right: 3%;
 
 }.lista-discord a {color:#FFFFFF}
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 480px) {
 
 		.lista-discord {display: flex}
 		}
@@ -4210,7 +4210,7 @@ h9 {
  	color: #ffffff;display:inline-flex;margin-right: 3%;
 
 }.lista-gmail a {color:#FFFFFF}
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 480px) {
 
 		.lista-gmail {display: flex}
 		}
