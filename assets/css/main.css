@@ -4139,7 +4139,7 @@ h9 {
 @media screen and (max-width: 480px) {
 
 		.lista-twitter {display:list-item flex;
-	width:40%;}
+	width:45%;}
 		}
 
 .lista-youtube {
@@ -4158,7 +4158,7 @@ h9 {
 @media screen and (max-width: 480px) {
 
 		.lista-youtube {display:list-item flex;
-	width:40%;}
+	width:45%;}
 		}
 
 .lista-twitch {
@@ -4178,7 +4178,7 @@ h9 {
 @media screen and (max-width: 480px) {
 
 		.lista-twitch {display:list-item flex;
-	width:40%;}
+	width:45%;}
 		}
 
 .lista-discord {
@@ -4197,7 +4197,7 @@ h9 {
 @media screen and (max-width: 480px) {
 
 		.lista-discord {display: list-item flex;
-	width:40%;}
+	width:45%;}
 		}
 
 .lista-gmail {
@@ -4216,5 +4216,5 @@ h9 {
 @media screen and (max-width: 480px) {
 
 		.lista-gmail {display:list-item flex;
-	width:40%;}
+	width:45%;}
 		}
