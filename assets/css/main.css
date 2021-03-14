@@ -4139,7 +4139,7 @@ h9 {
 }.lista-twitter a {color:#FFFFFF}
 @media screen and (max-width: 480px) {
 
-		.lista-twitter {display:list-item}
+		.lista-twitter {display:list-item flex}
 		}
 
 .lista-youtube {
@@ -4157,7 +4157,7 @@ h9 {
 }.lista-youtube a {color:#FFFFFF}
 @media screen and (max-width: 480px) {
 
-		.lista-youtube {display:list-item}
+		.lista-youtube {display:list-item flex}
 		}
 
 .lista-twitch {
@@ -4212,5 +4212,5 @@ h9 {
 }.lista-gmail a {color:#FFFFFF}
 @media screen and (max-width: 480px) {
 
-		.lista-gmail {display: flex}
+		.lista-gmail {display:list-item flex}
 		}
