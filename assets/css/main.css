@@ -4139,7 +4139,7 @@ h9 {
 }.lista-twitter a {color:#FFFFFF}
 @media screen and (max-width: 1280px) {
 
-		.lista-twitter {display: flex}
+		.lista-twitter {display:list-item}
 		}
 
 .lista-youtube {
