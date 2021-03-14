@@ -1722,6 +1722,7 @@ background-image: url("https://github.com/cdaguilasesports/web-page/blob/master/
 
 		h2 {
 			font-size: 16px;
+			font-size-adjust: 16px;
 		}
 
 		h3 {
